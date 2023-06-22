@@ -1,2 +1,2 @@
-# profile
+# Profile
 My personal github page
